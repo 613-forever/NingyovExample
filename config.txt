@@ -1,0 +1,3 @@
+log_level=info
+fonts=times.ttf
+stand_pose_string_format=stand{char}_{pose}
